@@ -15,4 +15,4 @@ with a passion for innovative technologies.
 [<img align="left" alt="Medium" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/medium.ico" />](https://medium.com/@mohammedkareem)
 <br />
 
-[![Kareem's github stats](https://github-readme-stats.vercel.app/api?username=mohammedkmo)](https://github.com/mohammedkmo/github-readme-stats)
+[![Kareem's github stats](https://github-readme-stats.vercel.app/api?username=mohammedkmo&theme=dark)](https://github.com/mohammedkmo/github-readme-stats)
